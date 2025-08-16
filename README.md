@@ -18,7 +18,8 @@ The dashboard includes:
 ## 🖼️ Screenshots
 (Add exported images from Power BI here, e.g.,)
 
-![Dashboard Overview](screenshots/dashboard.png)
+![Dashboard Overview](<img width="1346" height="743" alt="image" src="https://github.com/user-attachments/assets/776759c0-c127-49bd-8ee3-1fe7e72c7f2d" />
+)
 
 ---
 
@@ -42,5 +43,4 @@ The dashboard includes:
 ---
 
 ## ✨ Author
-👤 *Your Name*  
-📧 your_email@example.com  
+👤 *Prashant Kumar*  
