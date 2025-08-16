@@ -23,7 +23,7 @@ The dashboard includes:
 
 Here’s a preview of the dashboard:
 
-![E-commerce Sales Dashboard](screenshots/Screenshot-2025-08-17-013534.png)
+![E-commerce Sales Dashboard](C:\Users\prash\Pictures\Screenshots\Screenshot 2025-08-17 013534.png)
 
 ---
 
