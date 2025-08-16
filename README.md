@@ -19,14 +19,6 @@ The dashboard includes:
 
 ---
 
-## 🖼️ Screenshot
-
-Here’s a preview of the dashboard:
-
-![E-commerce Sales Dashboard](C:\Users\prash\Pictures\Screenshots\Screenshot 2025-08-17 013534.png)
-
----
-
 ## 📂 Project Files
 
 - `E-commerce sales Dashboard.pbix` → Power BI dashboard file  
