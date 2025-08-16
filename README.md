@@ -18,8 +18,7 @@ The dashboard includes:
 ## 🖼️ Screenshots
 (Add exported images from Power BI here, e.g.,)
 
-![Dashboard Overview](<img width="1346" height="743" alt="image" src="https://github.com/user-attachments/assets/776759c0-c127-49bd-8ee3-1fe7e72c7f2d" />
-)
+![Dashboard Overview](<C:\Users\prash\Pictures\Screenshots\Screenshot 2025-08-17 013534.png)
 
 ---
 
