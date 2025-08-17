@@ -22,7 +22,7 @@ The dashboard includes:
 ## 📂 Project Files
 
 - `E-commerce sales Dashboard.pbix` → Power BI dashboard file  
-- `screenshots/` → contains exported images of the dashboard  
+- `screenshots/`https://github.com/Prashant12112/E-Commerce-store-analysis/blob/master/Screenshot%202025-08-17%20013534.png → contains exported images of the dashboard  
 
 ---
 
